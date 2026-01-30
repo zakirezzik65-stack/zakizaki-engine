@@ -2,4 +2,6 @@ telethon
 binance-connector
 fastapi
 uvicorn
+pydantic
 python-multipart
+
